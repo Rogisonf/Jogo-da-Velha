@@ -1,4 +1,3 @@
-from collections import deque
 import random
 
 
@@ -49,22 +48,6 @@ class TicTacToe:
             return False
 
     # Adicione mais métodos conforme necessário (ex: fazer uma jogada, verificar vitória)
-
-
-def get_next_states(state):
-    # Aqui, `state` poderia ser a representação do tabuleiro do jogo da velha,
-    # por exemplo, uma lista de 9 elementos.
-    # Esta função deve retornar uma lista de estados que são alcançáveis
-    # a partir do estado atual com uma única jogada.
-
-    next_states = []
-    for i in range(9):  # Considerando um tabuleiro de 3x3
-        if state[i] == '-':  # Se a posição está vazia
-            # Exemplo de adicionar 'X' na posição vazia
-            next_state = state[:i] + 'X' + state[i+1:]
-            next_states.append(next_state)
-
-    return next_states
 
 
 def play_game(game):
