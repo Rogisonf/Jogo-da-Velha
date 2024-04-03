@@ -52,7 +52,7 @@ Para entender cada peça, confira o código bem comentado que guia você pela l�
 
 ---
 
-## Teste do algoritimo
+## Simulacões do algoritimo
 ![Imgur](https://imgur.com/zlzwWN7.jpg)
 ![Imgur](https://imgur.com/j25BVYo.jpg)
 ![Imgur](https://imgur.com/6i3YTQn.jpg)
