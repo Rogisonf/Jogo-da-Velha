@@ -29,7 +29,8 @@ A jogabilidade é um loop de turnos onde o jogador humano insere um movimento e 
 
 Aproveite um rápido jogo de Jogo da Velha durante sua pausa ou enquanto saboreia seu café da noite.
 
-- **Veja a maquina jogar**: execulte o
+- **Jogue Contra a Máquina**: Execute o arquivo `jogo-da-velha.py` no seu ambiente Python para uma partida interativa contra o algoritimo.
+- **Máquina vs Máquina**: Execute o arquivo `jogo-da-velha.ipynb` no seu ambiente de notebook (como Jupyter) para assistir a uma simulação de jogo onde duas IAs competem entre si.
 
 ## Contribuições
 
