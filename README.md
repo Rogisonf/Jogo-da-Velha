@@ -9,6 +9,9 @@ Bem-vindo ao reino nostálgico do clássico Jogo da Velha! Mergulhe neste simple
 - **Detecção de Vitória**: Lógica integrada para determinar o vencedor ou um empate, garantindo um resultado claro para cada partida.
 - **Exploração de Movimentos**: Implementações exemplares de Busca em Largura (BFS) e Busca em Profundidade (DFS) para explorar os movimentos do jogo (um ponto de partida para uma IA mais complexa).
 
+## Apresentação sobre o projeto
+- **[Clique aqui para visualizar a apresentação do projeto](https://www.canva.com/design/DAGBUaRaw5Y/SFM2qmeXUCTeG-ZAlLNB6w/edit?utm_content=DAGBUaRaw5Y&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)**
+
 ## Como Funciona
 
 `TicTacToe` é uma classe Python que encapsula a essência do jogo:
@@ -20,7 +23,7 @@ A jogabilidade é um loop de turnos onde o jogador humano insere um movimento e 
 
 ## Começando
 
-<https://github.com/Rogisonf/Jogo-da-Velha)>
+- **[Clique aqui para acessar o repositorio](https://github.com/Rogisonf/Jogo-da-Velha)**
 
 Aproveite um rápido jogo de Jogo da Velha durante sua pausa ou enquanto saboreia seu café da noite.
 
