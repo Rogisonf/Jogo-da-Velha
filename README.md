@@ -57,7 +57,7 @@ Faça parte da crescente comunidade que adora codificar e jogar. Compartilhe sua
 
 ---
 
-## Credito
+## Creditos
 
 - Rogisonf
 - Rlucas
