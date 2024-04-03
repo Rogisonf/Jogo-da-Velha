@@ -1,5 +1,7 @@
 # Jogo da Velha Clássico em Python
 
+![Texto alternativo](https://i.imgur.com/spSdF6j.png)
+
 Bem-vindo ao reino nostálgico do clássico Jogo da Velha! Mergulhe neste simples, porém encantador jogo baseado em terminal, que revive as memórias de infância que todos nós guardamos com carinho. Aperfeiçoe sua estratégia e teste sua inteligência contra uma IA rudimentar que desafia tanto novatos quanto adeptos.
 
 ## Recursos
@@ -29,7 +31,9 @@ Aproveite um rápido jogo de Jogo da Velha durante sua pausa ou enquanto saborei
 
 ## Contribuições
 
-Tem ideias de como tornar a IA mais inteligente ou o jogo mais rico em recursos? Contribuições são bem-vindas! Seja implementando um algoritmo de minimax para uma IA desafiadora ou aprimorando a interface do terminal, vamos colaborar para fazer deste Jogo da Velha o melhor de todos!
+Interessado em explorar a profundidade estratégica do Jogo da Velha? Convidamos contribuições que aprimorem a complexidade e inteligência do nosso jogo! A utilização de grafos é crucial para entender e expandir as possibilidades dentro do jogo, permitindo a implementação de algoritmos avançados de busca e otimização de estratégias, como a aplicação de Minimax para uma IA desafiadora ou até mesmo a exploração de algoritmos de busca em largura (BFS) e busca em profundidade (DFS) para prever jogadas. Se você tem ideias ou habilidades em teoria dos grafos, algoritmos de busca, ou simplesmente deseja melhorar a experiência do usuário na interface do terminal, sua contribuição será muito bem-vinda. Vamos juntos tornar este projeto de Jogo da Velha uma referência em aplicação prática de conceitos computacionais avançados!
+
+![Texto alternativo](https://i.imgur.com/zSFz2lM.png)
 
 ---
 
