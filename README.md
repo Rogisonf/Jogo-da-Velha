@@ -104,3 +104,6 @@ def play_game(game):
 # Exemplo de como iniciar um jogo
 game = TicTacToe()
 play_game(game)
+
+
+https://www.canva.com/design/DAGBUaRaw5Y/SFM2qmeXUCTeG-ZAlLNB6w/edit?utm_content=DAGBUaRaw5Y&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
