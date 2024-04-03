@@ -12,7 +12,7 @@ Bem-vindo ao reino nostálgico do clássico Jogo da Velha! Mergulhe neste simple
 - **Exploração de Movimentos**: Implementações exemplares de Busca em Largura (BFS) e Busca em Profundidade (DFS) para explorar os movimentos do jogo (um ponto de partida para uma IA mais complexa).
 
 ## Apresentação sobre o projeto
-- **[Clique aqui para visualizar a apresentação do projeto](https://www.canva.com/design/DAGBUaRaw5Y/SFM2qmeXUCTeG-ZAlLNB6w/edit?utm_content=DAGBUaRaw5Y&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)**
+**[Clique aqui para visualizar a apresentação do projeto](https://www.canva.com/design/DAGBUaRaw5Y/SFM2qmeXUCTeG-ZAlLNB6w/edit?utm_content=DAGBUaRaw5Y&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)**
 
 ## Como Funciona
 
@@ -29,11 +29,11 @@ A jogabilidade é um loop de turnos onde o jogador humano insere um movimento e 
 
 Aproveite um rápido jogo de Jogo da Velha durante sua pausa ou enquanto saboreia seu café da noite.
 
+- **Veja a maquina jogar**: execulte o
+
 ## Contribuições
 
 Interessado em explorar a profundidade estratégica do Jogo da Velha? Convidamos contribuições que aprimorem a complexidade e inteligência do nosso jogo! A utilização de grafos é crucial para entender e expandir as possibilidades dentro do jogo, permitindo a implementação de algoritmos avançados de busca e otimização de estratégias, como a aplicação de Minimax para uma IA desafiadora ou até mesmo a exploração de algoritmos de busca em largura (BFS) e busca em profundidade (DFS) para prever jogadas. Se você tem ideias ou habilidades em teoria dos grafos, algoritmos de busca, ou simplesmente deseja melhorar a experiência do usuário na interface do terminal, sua contribuição será muito bem-vinda. Vamos juntos tornar este projeto de Jogo da Velha uma referência em aplicação prática de conceitos computacionais avançados!
-
-![Texto alternativo](https://i.imgur.com/zSFz2lM.png)
 
 ---
 
@@ -51,9 +51,11 @@ Para entender cada peça, confira o código bem comentado que guia você pela l�
 
 ---
 
-## Junte-se à Comunidade
+## Teste do algoritimo
+![Imgur](https://imgur.com/zlzwWN7.jpg)
+![Imgur](https://imgur.com/j25BVYo.jpg)
+![Imgur](https://imgur.com/6i3YTQn.jpg)
 
-Faça parte da crescente comunidade que adora codificar e jogar. Compartilhe suas ideias, solicite recursos, relate problemas ou mesmo só passe para dizer oi. Vamos tornar a programação de jogos em Python divertida e educativa!
 
 ---
 
